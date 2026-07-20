@@ -140,14 +140,15 @@ Steps:
 ---
 
 ## 📸 Screenshots
-
-Add screenshots of your project here.
-
-- Home Page
-- Dashboard
-- Courses
-- Course Details
-- Profile
+Screenshots/
+Home.png
+Dashboard.png
+Enrollment.png
+Courses.png
+CreateCourse.png
+Profile.png
+Register.png
+Login.png
 
 ---
 
