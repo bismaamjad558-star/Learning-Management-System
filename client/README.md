@@ -104,6 +104,15 @@ JWT_SECRET=YOUR_SECRET_KEY
 ```
 
 ---
+## 📮 Postman Collection
+You can test all APIs using the Postman collection provided in the `postman` folder.
+
+Download: `postman/LMS_API.postman_collection.json`
+
+Steps:
+1. Open Postman > Import > File > Select the .json file
+2. Set `base_url` to `http://localhost:5000`
+
 
 ## 📷 Main Modules
 
