@@ -9,7 +9,7 @@ import { fileURLToPath } from "url";
 import express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
-import Module from "module";
+
 dotenv.config();
 
 const app = express();
@@ -35,7 +35,5 @@ mongoose
 
 app.get("/", (req, res) => {
   res.send("LMS Backend is Running...");
-});
-
-
-Module.exports = app;
+})
+export default app;
